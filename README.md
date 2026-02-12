@@ -4,6 +4,7 @@
 - `curl -O https://raw.githubusercontent.com/Windows200000/Poweramp-order-playlists/refs/heads/main/Playlist_order_time.sh`
 - `./Playlist_order_time.sh ./storage/shared/Path/To/Playlistfolder`.
 - Sort in PowerAmp "By date added/modified" without "Reverse"
+- Enjoy ;)
 
 > [!WARNING]
 > Backup your existing playlists just in case, tho I can't see how it could corrupt them.
@@ -13,8 +14,6 @@
 
 ## AI use
 The script is made mostly with AI + some tweaks and fixes to make it work and easier to use.
-
-Enjoy ;)
 
 ## Change log
 
